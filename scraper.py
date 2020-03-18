@@ -42,4 +42,4 @@ for opinion in opinions:
         purchase_date = date.pop(0)["datetime"]
     except IndexError:
         purchase_date = None
-    #print(opinion_id, author, recomendation, stars, content, pros, cons, useful, useless, purchased, purchase_date, review_date)
+    print(opinion_id, author, recomendation, stars, content, pros, cons, useful, useless, purchased, purchase_date, review_date)
