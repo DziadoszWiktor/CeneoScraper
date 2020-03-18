@@ -1,4 +1,4 @@
-# CeneoScraper11S
+# CeneoScraper
 ## Etap 1 - pobranie pojedynczej opinii 
 - opinia: li.review-box
 - identyfikator: li.review-box["data-entry-id"]
