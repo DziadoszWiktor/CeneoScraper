@@ -21,3 +21,7 @@
 ## Etap 4 - 
 - eliminacja powtarzających się fragmentów kodu
 - transformacja danych (typ danych, czyszczenie danych)
+## Etap 5 - analiza pobranych danych
+- zapis pobranych danych do obiektu dataframe (ramka danych)
+- wykonamie prostych obliczen na danych
+- wykonanie prostych wykresow
