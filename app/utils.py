@@ -8,6 +8,7 @@ def extract_feature(opinion, selector, attribute = None):
     except IndexError:
         return None
 
+
 #funkcja do usuwania znaków formatujących
 def remove_whitespaces(text):
     try:

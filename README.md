@@ -28,25 +28,25 @@
 ## Etap 6 - interfejs webowy aplikacji (framework Flask)
 - zainstalowanie i uruchamianie Flask'a
 - struktura aplikacji
-    /CeneoScraper  
-        /run.py  
-        /config.py  
-        /app  
-            /\_\_init\_\_.py
-            /routes.py  
-            /models.py  
-            /forms.py
-            /scraper.py
-            /analyzer.py
-            /static/  
-                /main.css
-                /figures/
-                    /fig.png
-            /templates/  
-                /base.html  
-            /opinions
-        /requirements.txt  
-        /.venv
-        /README.md
+>/CeneoScraper  
+>>/run.py  
+>>/config.py  
+>>/app 
+>>>/__init__.py 
+>>>/routes.py  
+>>>/models.py  
+>>>/forms.py
+>>>/scraper.py
+>>>/analyzer.py
+>>>/static/  
+>>>>/main.css
+>>>>/figures/
+>>>>>/fig.png
+>>>/templates/  
+>>>>/base.html  
+>>>/opinions
+>>/requirements.txt  
+>>/.venv
+>>/README.md
 - routing (nawigowanie po stronach serwisu)
 - widoki (Jinja)
